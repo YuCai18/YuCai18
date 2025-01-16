@@ -58,5 +58,4 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YuCai18.YuCai18)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YuCai18.YuCai18&left_color=red&right_color=green&left_text=HelloVisitors)
