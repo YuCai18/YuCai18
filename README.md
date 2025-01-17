@@ -50,7 +50,9 @@
 
 </table>
 
-
+<table align="center"  width="100%">
+    
+<tr><td>
 <!-- 然后是 Languages and Tools 部分 -->
 <h3>Languages and Tools:</h3>
 <div align="center">
