@@ -31,7 +31,9 @@
                 - 👨🏻‍🎓 I'm working on my master's degree at Beijing Institute of Petrochemical Technology.<br>
                 - 🖥️ My major is Control science and engineering.<br>
                 - 📧 E-mail me at 
-                [![Gmail Badge](https://img.shields.io/badge/-caiyu525@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiyu525@gmail.com)](mailto:caiyu525@gmail.com)
+                <a href="mailto:caiyu525@gmail.com">
+                    <img src="https://img.shields.io/badge/-caiyu525@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+                </a>
             </p>
             <img width="100%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
             <div align="center">
