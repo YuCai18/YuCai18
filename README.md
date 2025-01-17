@@ -26,16 +26,12 @@
     
 <tr><td>
 
-# :sunglasses: About Me
-
-<p width="100%">
-    
 <h1 align="center">Hi 👋, I'm Yu Cai (蔡煜)</h1>
 <h3 align="center"> Nice to meet you! :smiley:</h3>
+<p width="100%">
 - 👨🏻‍🎓 I'm working on my master's degree at Beijing Institute of Petrochemical Technology.
 - 🖥️ My major is Control science and engineering.
 - 📧 E-mail me at [![Gmail Badge](https://img.shields.io/badge/-caiyu525@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiyu525@gmail.com)](mailto:caiyu525@gmail.com)
-
 </p>
 
 <!-- ########################################## 分割 ########################################## -->
