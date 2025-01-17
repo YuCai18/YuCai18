@@ -33,8 +33,6 @@
                 - 📧 E-mail me at 
                 [![Gmail Badge](https://img.shields.io/badge/-caiyu525@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiyu525@gmail.com)](mailto:caiyu525@gmail.com)
             </p>
-
-            <!-- ########################################## 分割 ########################################## -->
             <img width="100%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
             <div align="center">
                 <picture>
