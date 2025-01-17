@@ -50,8 +50,7 @@
 
 </table>
 
-<table align="center"  width="100%">
-    
+
 <tr><td>
 <!-- 然后是 Languages and Tools 部分 -->
 <h3>Languages and Tools:</h3>
@@ -71,4 +70,4 @@
 </div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YuCai18.YuCai18&left_color=red&right_color=green&left_text=HelloVisitors)
-</table>
+
