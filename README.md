@@ -23,33 +23,32 @@
 </div>
  -->
 
-<table align="center" width="100%">
-    <tr>
-        <td>
-            <p width="100%">
-            <h1>Hi 👋, I'm Yu Cai (蔡煜)</h1>
-            <h3 align="center"> Nice to meet you! :smiley:</h3>
-                - 👨🏻‍🎓 I'm working on my master's degree at Beijing Institute of Petrochemical Technology.
-                - 🖥️ My major is Control science and engineering.
-                - 📧 E-mail me at <a href="mailto:caiyu525@gmail.com">caiyu525@gmail.com</a>
-            </p>
-        </td>
-    </tr>
-    <!-- ########################################## 分割 ########################################## -->
-    <tr>
-        <td align="center">
-            <img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" alt="Horizontal Rule" />
-            <div>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuCai18/YuCai18/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuCai18/YuCai18/profile-snake-contrib/github-contribution-grid-snake.svg" />
-                    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/YuCai18/YuCai18/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-                </picture>
-            </div>
-        </td>
-    </tr>
-</table>
+<table align="center"  width="100%">
+    
+<tr><td>
 
+<h1 align="center">Hi 👋, I'm Yu Cai (蔡煜)</h1>
+<h3 align="center"> Nice to meet you! :smiley:</h3>
+<p width="100%">
+    
+- 👨🏻‍🎓 I'm working on my master's degree at Beijing Institute of Petrochemical Technology.
+- 🖥️ My major is Control science and engineering.
+- 📧 E-mail me at [![Gmail Badge](https://img.shields.io/badge/-caiyu525@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiyu525@gmail.com)](mailto:caiyu525@gmail.com) 
+
+</p>
+</td></tr>
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif&#34;  />
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuCai18/YuCai18/profile-snake-contrib/github-contribution-grid-snake-dark.svg&#34;  />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuCai18/YuCai18/profile-snake-contrib/github-contribution-grid-snake.svg&#34;  />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake-dark.svg&#34;  />
+</picture>
+</div>
+</td></tr>
+
+</table>
 
 <tr><td>
 <!-- 然后是 Languages and Tools 部分 -->
