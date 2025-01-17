@@ -36,10 +36,20 @@
 - 📧 E-mail me at [![Gmail Badge](https://img.shields.io/badge/-caiyu525@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiyu525@gmail.com)](mailto:caiyu525@gmail.com)
 
 </p>
-
-
 </td></tr>
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/assets/images/hr.gif" />
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuCai18/YuCai18/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuCai18/YuCai18/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ZYangChen/ZYangChen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
+</td></tr>
+
 </table>
+
 
 <!-- 然后是 Languages and Tools 部分 -->
 <h3>Languages and Tools:</h3>
